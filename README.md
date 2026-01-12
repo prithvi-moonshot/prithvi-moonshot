@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I’m Prithvi 👋
 
-<!--
-**prithvi-moonshot/prithvi-moonshot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer interested in **AI, SaaS, and developer tools**.
 
-Here are some ideas to get you started:
+I like building **simple products** that make complex things easier, and contributing to open source to understand systems deeply. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Long-term, I’m focused on building products people actually **love**.
+
+- 🔭 Building and experimenting with ideas  
+- 🌱 Exploring LLMs, applied AI, and product thinking  
+- 🤝 Open to early-stage open source & builder collaborations
+
+📫 www.linkedin.com/in/prithvi-rana
